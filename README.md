@@ -1,4 +1,4 @@
-# Olá, eu sou o Bernardo 👋
+# Olá 👋
 
 💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
 
