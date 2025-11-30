@@ -2,4 +2,5 @@
 
 💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoA28&layout=compact)
+![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=BernardoA28)
+
